@@ -22,7 +22,9 @@ Compare and contrast the Agile and Waterfall models of software development. Wha
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
+Software Design Principles: 
+
+gggggggggg
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
